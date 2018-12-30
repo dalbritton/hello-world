@@ -1,2 +1,2 @@
-# concentration
-Assignment I - Stanford University CS193P - iOS Application Development
+# hello-world
+This is a demo of git using the hello-world app
